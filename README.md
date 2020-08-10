@@ -12,8 +12,9 @@
 # Management
 * https://github.com/VGraupera/1on1-questions
 
-# Bootstrapping
-* https://thebootstrappedfounder.com/zero-to-sold/
+# Entrepreneurship 
+* Zero to sold - https://thebootstrappedfounder.com/zero-to-sold/
+* Research articles - https://eiexchange.com/
 
 # Cool tools
 * Ascii charts - https://textik.com/#3c1eac067521686e
