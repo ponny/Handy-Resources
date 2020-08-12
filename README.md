@@ -15,6 +15,7 @@
 # Entrepreneurship 
 * Zero to sold - https://thebootstrappedfounder.com/zero-to-sold/
 * Research articles - https://eiexchange.com/
+* Startup legal docs - https://www.avodocs.com/
 
 # Cool tools
 * Ascii charts - https://textik.com/#3c1eac067521686e
