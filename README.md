@@ -8,6 +8,10 @@
 # Development 
 * Pairing - https://martinfowler.com/articles/on-pair-programming.html
 * Autism - https://dev.to/baweaver/tales-of-the-autistic-developer-senior-developer-3l0c
+* Dyslexia and Developers by Tom Gamon - https://www.youtube.com/watch?v=JZ03E0FUj1M
+
+# Design
+* https://www.checklist.design/
 
 # Management
 * https://github.com/VGraupera/1on1-questions
