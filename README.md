@@ -12,6 +12,7 @@
 
 # Design
 * https://www.checklist.design/
+* Custom selects are hard: https://modulz.app/blog/under-the-spotlight-select
 
 # Management
 * https://github.com/VGraupera/1on1-questions
