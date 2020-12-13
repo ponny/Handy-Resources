@@ -1,21 +1,22 @@
-# Lists
-* https://www.notion.so/High-Output-Founders-Library-48742928f9f149b8a777e11a1409ce0a
-
 # CSS
-* https://css-tricks.com/using-css-transitions-auto-dimensions/
-* https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+* Using CSS Transitions on Auto Dimensions - https://css-tricks.com/using-css-transitions-auto-dimensions/
+* MindBEMding – getting your head ’round BEM syntax - https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 
 # Development 
 * Pairing - https://martinfowler.com/articles/on-pair-programming.html
 * Autism - https://dev.to/baweaver/tales-of-the-autistic-developer-senior-developer-3l0c
 * Dyslexia and Developers by Tom Gamon - https://www.youtube.com/watch?v=JZ03E0FUj1M
 
+
 # Design
 * https://www.checklist.design/
-* Custom selects are hard: https://modulz.app/blog/under-the-spotlight-select
+* Custom selects are hard - https://modulz.app/blog/under-the-spotlight-select
 
 # Management
-* https://github.com/VGraupera/1on1-questions
+* 1 on 1 Meeting Questions - https://github.com/VGraupera/1on1-questions
+
+# CTO
+* Buy Don't Build: Avoiding Ops For Fun and Profit - https://jrott.com/posts/why-buy/
 
 # Entrepreneurship 
 * Zero to sold - https://thebootstrappedfounder.com/zero-to-sold/
@@ -25,3 +26,8 @@
 # Cool tools
 * Ascii charts - https://textik.com/#3c1eac067521686e
 * Box-line-text - https://github.com/jncraton/box-line-text
+
+# Lists
+* High Output Founders' Library - https://www.notion.so/High-Output-Founders-Library-48742928f9f149b8a777e11a1409ce0a
+* Awesome code review - https://github.com/joho/awesome-code-review
+* Awesome - https://github.com/joho/awesome
