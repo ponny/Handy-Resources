@@ -29,6 +29,7 @@ Modern Frontend in Rails - https://evilmartians.com/chronicles/evil-front-part-1
 # Cool tools
 * Ascii charts - https://textik.com/#3c1eac067521686e
 * Box-line-text - https://github.com/jncraton/box-line-text
+* AWS Pricing - https://instances.vantage.sh/
 
 # Lists
 * High Output Founders' Library - https://www.notion.so/High-Output-Founders-Library-48742928f9f149b8a777e11a1409ce0a
