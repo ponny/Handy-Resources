@@ -7,6 +7,9 @@
 * Autism - https://dev.to/baweaver/tales-of-the-autistic-developer-senior-developer-3l0c
 * Dyslexia and Developers by Tom Gamon - https://www.youtube.com/watch?v=JZ03E0FUj1M
 
+# Front-end
+
+Modern Frontend in Rails - https://evilmartians.com/chronicles/evil-front-part-1
 
 # Design
 * https://www.checklist.design/
