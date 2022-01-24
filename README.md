@@ -27,6 +27,9 @@ Modern Frontend in Rails - https://evilmartians.com/chronicles/evil-front-part-1
 * Research articles - https://eiexchange.com/
 * Startup legal docs - https://www.avodocs.com/
 
+## Databases
+* Tricking Postgres into using an insane – but 200x faster – query plan - https://spacelift.io/blog/tricking-postgres-into-using-query-plan
+
 # Cool tools
 * Ascii charts - https://textik.com/#3c1eac067521686e
 * Box-line-text - https://github.com/jncraton/box-line-text
