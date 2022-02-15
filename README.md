@@ -6,6 +6,7 @@
 * Pairing - https://martinfowler.com/articles/on-pair-programming.html
 * Autism - https://dev.to/baweaver/tales-of-the-autistic-developer-senior-developer-3l0c
 * Dyslexia and Developers by Tom Gamon - https://www.youtube.com/watch?v=JZ03E0FUj1M
+* Career advice from Patio11 - https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 
 # Front-end
 
