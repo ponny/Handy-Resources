@@ -8,6 +8,9 @@
 * Dyslexia and Developers by Tom Gamon - https://www.youtube.com/watch?v=JZ03E0FUj1M
 * Career advice from Patio11 - https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 
+# APIs
+Best Practices for Designing a Pragmatic RESTful API - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+
 # Front-end
 
 Modern Frontend in Rails - https://evilmartians.com/chronicles/evil-front-part-1
