@@ -21,6 +21,7 @@ Modern Frontend in Rails - https://evilmartians.com/chronicles/evil-front-part-1
 
 # Management
 * 1 on 1 Meeting Questions - https://github.com/VGraupera/1on1-questions
+* When to delegate - https://medium.com/@ameet/when-to-delegate-57848379a9bf
 
 # CTO
 * Buy Don't Build: Avoiding Ops For Fun and Profit - https://jrott.com/posts/why-buy/
