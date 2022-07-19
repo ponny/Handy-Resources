@@ -22,6 +22,7 @@ Modern Frontend in Rails - https://evilmartians.com/chronicles/evil-front-part-1
 # Management
 * 1 on 1 Meeting Questions - https://github.com/VGraupera/1on1-questions
 * When to delegate - https://medium.com/@ameet/when-to-delegate-57848379a9bf
+* Prioritization - https://medium.com/linear-app/building-at-the-early-stage-e79e696341db
 
 # CTO
 * Buy Don't Build: Avoiding Ops For Fun and Profit - https://jrott.com/posts/why-buy/
@@ -32,7 +33,7 @@ Modern Frontend in Rails - https://evilmartians.com/chronicles/evil-front-part-1
 * Research articles - https://eiexchange.com/
 * Startup legal docs - https://www.avodocs.com/
 
-## Databases
+# Databases
 * Tricking Postgres into using an insane – but 200x faster – query plan - https://spacelift.io/blog/tricking-postgres-into-using-query-plan
 
 # Cool tools
