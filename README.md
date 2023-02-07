@@ -18,11 +18,13 @@ Modern Frontend in Rails - https://evilmartians.com/chronicles/evil-front-part-1
 # Design
 * https://www.checklist.design/
 * Custom selects are hard - https://modulz.app/blog/under-the-spotlight-select
+* Safe rules - https://anthonyhobday.com/sideprojects/saferules/
 
 # Management
 * 1 on 1 Meeting Questions - https://github.com/VGraupera/1on1-questions
 * When to delegate - https://medium.com/@ameet/when-to-delegate-57848379a9bf
 * Prioritization - https://medium.com/linear-app/building-at-the-early-stage-e79e696341db
+* NCTs instead of OKRs - https://www.reforge.com/blog/set-better-goals-with-ncts-not-okrs
 
 # CTO
 * Buy Don't Build: Avoiding Ops For Fun and Profit - https://jrott.com/posts/why-buy/
