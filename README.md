@@ -29,6 +29,7 @@ Modern Frontend in Rails - https://evilmartians.com/chronicles/evil-front-part-1
 # CTO
 * Buy Don't Build: Avoiding Ops For Fun and Profit - https://jrott.com/posts/why-buy/
 * Data Disclosure Framework - https://sherloc.unodc.org/cld/en/st/evidence/ddf.html
+* Architectural Decision Records (ADRs) - https://adr.github.io/
 
 # Entrepreneurship 
 * Zero to sold - https://thebootstrappedfounder.com/zero-to-sold/
